@@ -1,0 +1,15 @@
+C:\Users\48599214888\Desktop\console-MVC\bin\Debug\net7.0\console-MVC.exe
+C:\Users\48599214888\Desktop\console-MVC\bin\Debug\net7.0\console-MVC.deps.json
+C:\Users\48599214888\Desktop\console-MVC\bin\Debug\net7.0\console-MVC.runtimeconfig.json
+C:\Users\48599214888\Desktop\console-MVC\bin\Debug\net7.0\console-MVC.dll
+C:\Users\48599214888\Desktop\console-MVC\bin\Debug\net7.0\console-MVC.pdb
+C:\Users\48599214888\Desktop\console-MVC\obj\Debug\net7.0\console-MVC.csproj.AssemblyReference.cache
+C:\Users\48599214888\Desktop\console-MVC\obj\Debug\net7.0\console-MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48599214888\Desktop\console-MVC\obj\Debug\net7.0\console-MVC.AssemblyInfoInputs.cache
+C:\Users\48599214888\Desktop\console-MVC\obj\Debug\net7.0\console-MVC.AssemblyInfo.cs
+C:\Users\48599214888\Desktop\console-MVC\obj\Debug\net7.0\console-MVC.csproj.CoreCompileInputs.cache
+C:\Users\48599214888\Desktop\console-MVC\obj\Debug\net7.0\console-MVC.dll
+C:\Users\48599214888\Desktop\console-MVC\obj\Debug\net7.0\refint\console-MVC.dll
+C:\Users\48599214888\Desktop\console-MVC\obj\Debug\net7.0\console-MVC.pdb
+C:\Users\48599214888\Desktop\console-MVC\obj\Debug\net7.0\console-MVC.genruntimeconfig.cache
+C:\Users\48599214888\Desktop\console-MVC\obj\Debug\net7.0\ref\console-MVC.dll
